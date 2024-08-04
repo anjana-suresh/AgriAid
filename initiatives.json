@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Pradhan Mantri Fasal Bima Yojana",
+      "description": "Provides crop insurance to farmers against natural calamities.",
+      "contact": "info@pmfby.gov.in",
+      "website": "http://pmfby.gov.in"
+  },
+  {
+      "name": "Pradhan Mantri Kisan Samman Nidhi",
+      "description": "Provides income support to farmers.",
+      "contact": "info@pmkisan.gov.in",
+      "website": "http://pmkisan.gov.in"
+  },
+  {
+      "name": "Rashtriya Krishi Vikas Yojana",
+      "description": "Supports agricultural development programs.",
+      "contact": "info@rkvy.gov.in",
+      "website": "http://rkvy.gov.in"
+  },
+  {
+      "name": "Paramparagat Krishi Vikas Yojana",
+      "description": "Promotes organic farming.",
+      "contact": "info@pkvy.gov.in",
+      "website": "http://pkvy.gov.in"
+  },
+  {
+      "name": "National Agriculture Market (eNAM)",
+      "description": "Provides an online trading platform for farmers.",
+      "contact": "info@enam.gov.in",
+      "website": "http://enam.gov.in"
+  },
+  {
+      "name": "Soil Health Card Scheme",
+      "description": "Provides soil health cards to farmers.",
+      "contact": "info@soilhealth.dac.gov.in",
+      "website": "http://soilhealth.dac.gov.in"
+  },
+  {
+      "name": "Pradhan Mantri Krishi Sinchai Yojana",
+      "description": "Aims to improve water use efficiency.",
+      "contact": "info@pmksy.gov.in",
+      "website": "http://pmksy.gov.in"
+  },
+  {
+      "name": "National Food Security Mission",
+      "description": "Aims to increase the production of rice, wheat, pulses, and coarse cereals.",
+      "contact": "info@nfsm.gov.in",
+      "website": "http://nfsm.gov.in"
+  },
+  {
+      "name": "Kisan Credit Card Scheme",
+      "description": "Provides credit support to farmers.",
+      "contact": "info@kcc.gov.in",
+      "website": "http://kcc.gov.in"
+  },
+  {
+      "name": "Integrated Scheme for Agricultural Marketing",
+      "description": "Aims to improve marketing infrastructure.",
+      "contact": "info@isam.gov.in",
+      "website": "http://isam.gov.in"
+  }
+]

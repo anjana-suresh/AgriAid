@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Bharatiya Agro Industries Foundation",
+      "description": "Working to empower rural communities through sustainable agricultural practices.",
+      "contact": "info@baif.org.in",
+      "website": "http://baif.org.in"
+  },
+  {
+      "name": "S.M. Sehgal Foundation",
+      "description": "Promotes sustainable agricultural practices and community-led development.",
+      "contact": "info@smsehgalfoundation.org",
+      "website": "http://smsehgalfoundation.org"
+  },
+  {
+      "name": "Pragati Rural Development Society",
+      "description": "Focuses on agricultural development and rural empowerment.",
+      "contact": "contact@pragatisociety.org",
+      "website": "http://pragatisociety.org"
+  },
+  {
+      "name": "Development Support Center",
+      "description": "Supports farmers with technical assistance and market access.",
+      "contact": "info@dscindia.org",
+      "website": "http://dscindia.org"
+  },
+  {
+      "name": "Digital Green",
+      "description": "Uses technology to improve agricultural practices and livelihoods.",
+      "contact": "info@digitalgreen.org",
+      "website": "http://digitalgreen.org"
+  },
+  {
+      "name": "Action for Social Advancement (ASA)",
+      "description": "Works towards sustainable livelihoods and community development.",
+      "contact": "info@asa.org.in",
+      "website": "http://asa.org.in"
+  },
+  {
+      "name": "Gram Vikas",
+      "description": "Focuses on rural development and empowerment.",
+      "contact": "info@gramvikas.org",
+      "website": "http://gramvikas.org"
+  },
+  {
+      "name": "Navdanya",
+      "description": "Promotes biodiversity conservation and organic farming.",
+      "contact": "info@navdanya.org",
+      "website": "http://navdanya.org"
+  },
+  {
+      "name": "Centre for Sustainable Agriculture",
+      "description": "Supports sustainable agricultural practices and farmer welfare.",
+      "contact": "info@csa-india.org",
+      "website": "http://csa-india.org"
+  },
+  {
+      "name": "Rural Development Foundation",
+      "description": "Works for rural development and poverty alleviation.",
+      "contact": "info@rdf.org.in",
+      "website": "http://rdf.org.in"
+  }
+]

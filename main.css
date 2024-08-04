@@ -1,0 +1,96 @@
+/* Existing styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header img {
+  max-width: 150px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin: 5px 0;
+}
+
+form input, form textarea, form button {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+}
+
+form button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+/* Styles specific to resources page */
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  color: #4CAF50;
+}
+
+section ul {
+  list-style-type: disc;
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+section ul li {
+  margin: 5px 0;
+}
+
+section ul li a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+section ul li a:hover {
+  text-decoration: underline;
+}

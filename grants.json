@@ -1,0 +1,62 @@
+[
+  {
+      "name": "NABARD Rural Infrastructure Development Fund",
+      "description": "Provides financial assistance for rural infrastructure projects.",
+      "contact": "info@nabard.org",
+      "website": "http://nabard.org"
+  },
+  {
+      "name": "Agriculture Infrastructure Fund",
+      "description": "Provides medium - long term debt financing for investment in viable projects for post-harvest management Infrastructure and community farming assets.",
+      "contact": "info@agrifund.gov.in",
+      "website": "http://agrifund.gov.in"
+  },
+  {
+      "name": "National Livestock Mission",
+      "description": "Supports development of livestock sector.",
+      "contact": "info@nlm.gov.in",
+      "website": "http://nlm.gov.in"
+  },
+  {
+      "name": "Micro Irrigation Fund",
+      "description": "Provides funds for micro irrigation projects.",
+      "contact": "info@mif.gov.in",
+      "website": "http://mif.gov.in"
+  },
+  {
+      "name": "Fisheries and Aquaculture Infrastructure Development Fund",
+      "description": "Provides finance for the development of fisheries infrastructure.",
+      "contact": "info@faidf.gov.in",
+      "website": "http://faidf.gov.in"
+  },
+  {
+      "name": "National Bamboo Mission",
+      "description": "Supports the development of the bamboo sector.",
+      "contact": "info@nbm.gov.in",
+      "website": "http://nbm.gov.in"
+  },
+  {
+      "name": "Rashtriya Krishi Vikas Yojana - Remunerative Approaches for Agriculture and Allied sector Rejuvenation",
+      "description": "Provides financial assistance to enhance farmers income.",
+      "contact": "info@rkvyr.gov.in",
+      "website": "http://rkvyr.gov.in"
+  },
+  {
+      "name": "Dairy Entrepreneurship Development Scheme",
+      "description": "Provides financial assistance for dairy projects.",
+      "contact": "info@deds.gov.in",
+      "website": "http://deds.gov.in"
+  },
+  {
+      "name": "Gramin Bhandaran Yojana",
+      "description": "Provides support for the construction and renovation of rural godowns.",
+      "contact": "info@gby.gov.in",
+      "website": "http://gby.gov.in"
+  },
+  {
+      "name": "National Mission on Edible Oils – Oil Palm",
+      "description": "Provides financial assistance for increasing area under oil palm cultivation.",
+      "contact": "info@nmeo-op.gov.in",
+      "website": "http://nmeo-op.gov.in"
+  }
+]
